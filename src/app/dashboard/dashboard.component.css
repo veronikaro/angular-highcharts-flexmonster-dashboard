@@ -1,0 +1,16 @@
+.column {
+  float: left;
+  width: 50%;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

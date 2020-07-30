@@ -1,0 +1,206 @@
+[
+  {
+    "State": "Alabama",
+    "Code": "US-AL"
+  },
+  {
+    "State": "Alaska",
+    "Code": "US-AK"
+  },
+  {
+    "State": "Arizona",
+    "Code": "US-AZ"
+  },
+  {
+    "State": "Arkansas",
+    "Code": "US-AR"
+  },
+  {
+    "State": "California",
+    "Code": "US-CA"
+  },
+  {
+    "State": "Colorado",
+    "Code": "US-CO"
+  },
+  {
+    "State": "Connecticut",
+    "Code": "US-CT"
+  },
+  {
+    "State": "Delaware",
+    "Code": "US-DE"
+  },
+  {
+    "State": "District of Columbia",
+    "Code": "US-DC"
+  },
+  {
+    "State": "Florida",
+    "Code": "US-FL"
+  },
+  {
+    "State": "Georgia",
+    "Code": "US-GA"
+  },
+  {
+    "State": "Hawaii",
+    "Code": "US-HI"
+  },
+  {
+    "State": "Idaho",
+    "Code": "US-ID"
+  },
+  {
+    "State": "Illinois",
+    "Code": "US-IL"
+  },
+  {
+    "State": "Indiana",
+    "Code": "US-IN"
+  },
+  {
+    "State": "Iowa",
+    "Code": "US-IA"
+  },
+  {
+    "State": "Kansas",
+    "Code": "US-KS"
+  },
+  {
+    "State": "Kentucky",
+    "Code": "US-KY"
+  },
+  {
+    "State": "Louisiana",
+    "Code": "US-LA"
+  },
+  {
+    "State": "Maine",
+    "Code": "US-ME"
+  },
+  {
+    "State": "Maryland",
+    "Code": "US-MD"
+  },
+  {
+    "State": "Massachusetts",
+    "Code": "US-MA"
+  },
+  {
+    "State": "Michigan",
+    "Code": "US-MI"
+  },
+  {
+    "State": "Minnesota",
+    "Code": "US-MN"
+  },
+  {
+    "State": "Mississippi",
+    "Code": "US-MS"
+  },
+  {
+    "State": "Missouri",
+    "Code": "US-MO"
+  },
+  {
+    "State": "Montana",
+    "Code": "US-MT"
+  },
+  {
+    "State": "Nebraska",
+    "Code": "US-NE"
+  },
+  {
+    "State": "Nevada",
+    "Code": "US-NV"
+  },
+  {
+    "State": "New Hampshire",
+    "Code": "US-NH"
+  },
+  {
+    "State": "New Jersey",
+    "Code": "US-NJ"
+  },
+  {
+    "State": "New Mexico",
+    "Code": "US-NM"
+  },
+  {
+    "State": "New York",
+    "Code": "US-NY"
+  },
+  {
+    "State": "North Carolina",
+    "Code": "US-NC"
+  },
+  {
+    "State": "North Dakota",
+    "Code": "US-ND"
+  },
+  {
+    "State": "Ohio",
+    "Code": "US-OH"
+  },
+  {
+    "State": "Oklahoma",
+    "Code": "US-OK"
+  },
+  {
+    "State": "Oregon",
+    "Code": "US-OR"
+  },
+  {
+    "State": "Pennsylvania",
+    "Code": "US-PA"
+  },
+  {
+    "State": "Rhode Island",
+    "Code": "US-RI"
+  },
+  {
+    "State": "South Carolina",
+    "Code": "US-SC"
+  },
+  {
+    "State": "South Dakota",
+    "Code": "US-SD"
+  },
+  {
+    "State": "Tennessee",
+    "Code": "US-TN"
+  },
+  {
+    "State": "Texas",
+    "Code": "US-TX"
+  },
+  {
+    "State": "Utah",
+    "Code": "US-UT"
+  },
+  {
+    "State": "Vermont",
+    "Code": "US-VT"
+  },
+  {
+    "State": "Virginia",
+    "Code": "US-VA"
+  },
+  {
+    "State": "Washington",
+    "Code": "US-WA"
+  },
+  {
+    "State": "West Virginia",
+    "Code": "US-WV"
+  },
+  {
+    "State": "Wisconsin",
+    "Code": "US-WI"
+  },
+  {
+    "State": "Wyoming",
+    "Code": "US-WY"
+  }
+]
