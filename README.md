@@ -17,7 +17,7 @@ Older versions produce errors.
 
 Run the following commands to get started:
 
-- npm install
-- ng serve
+- `npm install`
+- `ng serve`
 
 Open http://localhost:4200/ in the browser to see the dashboard. 
