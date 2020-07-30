@@ -24,6 +24,4 @@ Open http://localhost:4200/ in the browser to see the dashboard.
 
 ## Results
 
-Here's what you'll get as a result:
-
-![dashboard](https://www.flexmonster.com/fm_uploads/2020/07/FMHighchartsCovid.gif)
+[Here's what you'll get as a result](https://www.flexmonster.com/fm_uploads/2020/07/FMHighchartsCovid.gif):
