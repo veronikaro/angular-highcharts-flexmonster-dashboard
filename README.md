@@ -1,4 +1,4 @@
-# Highcharts and Flexmonster Pivot integration with Angular 4+ framework
+# Highcharts and Flexmonster Pivot integration with Angular 9+ framework
 
 This repository holds the TypeScript source code for simple Angular, [Flexmonster Pivot Table](https://www.flexmonster.com/?r=ang_git_hc) and [Highcharts](https://www.highcharts.com/) project. It is created using [Angular CLI](https://cli.angular.io/).
 
